@@ -1,0 +1,17 @@
+.lottery{
+    position: relative;
+    display: inline-block;
+}
+.lottery img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -76px;
+    margin-top: -82px;
+    cursor: pointer;
+}
+#message{
+    position: absolute;
+    top: 0px;
+    left: 10%;
+}
